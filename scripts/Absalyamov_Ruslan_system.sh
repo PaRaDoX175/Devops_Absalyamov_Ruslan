@@ -30,5 +30,3 @@ if [ -f "$PRACTICE_DIR" ]; then
 else
         echo "Student information file does not exist."
 fi
-
-echo "Script end!"
